@@ -1,4 +1,4 @@
 ---
-Title: Welcome to Carol.S.Tarot
+Welcome to Carol.S.Tarot: Seja bem-vindo
 ---
 
